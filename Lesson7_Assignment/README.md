@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mara Buzatu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment introduced jQuery and taught me how to use it efficiently for animating a recipe application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is a popular library used by web developers to incorporate Javascript capabilities with minimal coding.
+2. jQuery includes features such as HTML/DOM manipulation, CSS manipulations, effects & animations, and AJAX.
+3. You can modify a selection by appending the DOM traversal method to the selection code.
 
